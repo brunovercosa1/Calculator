@@ -1,0 +1,17 @@
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\bin\Debug\net6.0-windows\Calculadora02.exe
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\bin\Debug\net6.0-windows\Calculadora02.deps.json
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\bin\Debug\net6.0-windows\Calculadora02.runtimeconfig.json
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\bin\Debug\net6.0-windows\Calculadora02.dll
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\bin\Debug\net6.0-windows\Calculadora02.pdb
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.csproj.AssemblyReference.cache
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.FrmCalculator.resources
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.csproj.GenerateResource.cache
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.AssemblyInfoInputs.cache
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.AssemblyInfo.cs
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.csproj.CoreCompileInputs.cache
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.dll
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\refint\Calculadora02.dll
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.pdb
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\Calculadora02.genruntimeconfig.cache
+C:\Users\instrutor\Documents\Visual Studio 2022\Projects\Bruno\Calculadora02\Calculadora02\obj\Debug\net6.0-windows\ref\Calculadora02.dll
